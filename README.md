@@ -1,7 +1,7 @@
 # Car Dealership Management System (C + SQLite3)
 
-This repository contains an academic project developed during my undergraduate studies using C code and SQLite3  
-The project implements a simple car dealership management system backed by a relational database and accessed through a C program.
+This repository contains an academic project developed during my undergraduate studies using **C** and **SQLite3**  
+The project implements a simple **car dealership management system** backed by a relational database and accessed through a C program.
 
 The goal of this project was to practice:
 - Relational database design
@@ -87,7 +87,7 @@ The system uses an **SQLite3** database with the following main tables:
 - SQLite3 development library installed  
 - GCC or another C compiler
 
-##If on Windows, download WSL with ```wsl --install```and setup on local machine and run the following lines to 
+## If on Windows, download WSL with ```wsl --install```and setup on local machine and run the following lines to 
 ```bash
 sudo apt update
 sudo apt install sqlite3 libsqlite3-dev
